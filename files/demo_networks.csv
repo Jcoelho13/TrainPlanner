@@ -1,0 +1,62 @@
+Station_A,Station_B,Capacity,Service
+Ermidas-Sado,Funcheira,4,ALFA PENDULAR
+Entroncamento,Lisboa Oriente,8,STANDARD
+Pombal,Entroncamento,4,ALFA PENDULAR
+Coimbra B,Pombal,6,ALFA PENDULAR
+Braga,Famalicao,4,ALFA PENDULAR
+Famalicao,Trofa,4,ALFA PENDULAR
+Trofa,Porto Campanha,10,ALFA PENDULAR
+Porto Campanha,Vila Nova de Gaia-Devesas,8,ALFA PENDULAR
+Vila Nova de Gaia-Devesas,Espinho,6,ALFA PENDULAR
+Espinho,Aveiro - Vouga,10,ALFA PENDULAR
+Aveiro - Vouga,Coimbra B,8,ALFA PENDULAR
+Nine,Trofa,4,STANDARD
+Viana do Castelo,Nine,4,STANDARD
+Portela,Trofa,2,STANDARD
+Trofa,Esmeriz,2,STANDARD
+Contumil,Rio Tinto,2,STANDARD
+Rio Tinto,Aguas Santas,2,STANDARD
+Aguas Santas,Palmilheira,2,STANDARD
+Palmilheira,Travagem,2,STANDARD
+Travagem,Leandro,4,STANDARD
+Leandro,Sao Frutuoso,6,STANDARD
+Sao Frutuoso,Sao Romao - A,2,STANDARD
+Sao Romao - A,Sao Romao,4,STANDARD
+Sao Romao,Portela,2,STANDARD
+Aveiro - Vouga,Cacia,10,STANDARD
+Cacia,Canelas,2,STANDARD
+Canelas,Salreu,2,STANDARD
+Salreu,Estarreja,4,STANDARD
+Estarreja,Avanca,2,STANDARD
+Avanca,Valega,6,STANDARD
+Valega,Ovar,4,STANDARD
+Ovar,Carvalheira - Maceda,2,STANDARD
+Carvalheira - Maceda,Cortegaca,2,STANDARD
+Cortegaca,Esmoriz,6,STANDARD
+Esmoriz,Paramos,2,STANDARD
+Paramos,Silvalde,2,STANDARD
+Silvalde,Granja,4,STANDARD
+Granja,Aguda,2,STANDARD
+Aguda,Miramar,2,STANDARD
+Miramar,Francelos Sul,4,STANDARD
+Francelos Sul,Francelos,2,STANDARD
+Francelos,Valadares,2,STANDARD
+Valadares,Madalena,2,STANDARD
+Madalena,Coimbroes,2,STANDARD
+Coimbroes,General Torres,4,STANDARD
+General Torres,Vila Nova de Gaia-Devesas,4,STANDARD
+Entroncamento,Santarem,8,ALFA PENDULAR
+Santarem,Lisboa Oriente,10,ALFA PENDULAR
+Funcheira,Santa Clara-Saboia,4,ALFA PENDULAR
+Santa Clara-Saboia,Tunes,4,ALFA PENDULAR
+Tunes,Albufeira - Ferreiras,6,ALFA PENDULAR
+Albufeira - Ferreiras,Loule,4,ALFA PENDULAR
+Loule,Faro,10,ALFA PENDULAR
+Aguim,Curia,2,STANDARD
+Curia,Paraimo,2,STANDARD
+Paraimo,Oliveira do Bairro,4,STANDARD
+Oliveira do Bairro,Oia,6,STANDARD
+Oia,Quintans,2,STANDARD
+Quintans,Aveiro - Vouga,10,STANDARD
+Esmeriz,Barrimau,2,STANDARD
+Barrimau,Famalicao,4,STANDARD
